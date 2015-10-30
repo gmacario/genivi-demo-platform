@@ -19,3 +19,7 @@
 [submodule "meta-fsl-arm"]
 	path = meta-fsl-arm
 	url = git://git.yoctoproject.org/meta-fsl-arm
+[submodule "meta-gmacario-udoo"]
+	path = meta-gmacario-udoo
+	url = https://github.com/gmacario/meta-gmacario-udoo.git
+	branch = fido
