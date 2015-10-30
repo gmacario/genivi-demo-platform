@@ -38,5 +38,5 @@ work with...
 
 One recommendation to improve usability a little: 
 ```bash
-git config diff.submodule=log
+git config diff.submodule log
 ```
