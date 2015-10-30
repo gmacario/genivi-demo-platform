@@ -13,3 +13,6 @@
 [submodule "poky"]
 	path = poky
 	url = git://git.yoctoproject.org/poky
+[submodule "meta-fsl-arm-extra"]
+	path = meta-fsl-arm-extra
+	url = https://github.com/gmacario/meta-fsl-arm-extra.git
