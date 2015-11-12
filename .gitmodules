@@ -23,3 +23,6 @@
 	path = meta-gmacario-udoo
 	url = https://github.com/gmacario/meta-gmacario-udoo.git
 	branch = fido
+[submodule "meta-fsl-demos"]
+	path = meta-fsl-demos
+	url = https://github.com/Freescale/meta-fsl-demos.git
