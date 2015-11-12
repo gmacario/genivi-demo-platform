@@ -4,21 +4,26 @@
 [submodule "meta-ivi"]
 	path = meta-ivi
 	url = http://git.yoctoproject.org/git/meta-ivi
+	branch = fido
 [submodule "meta-qt5"]
 	path = meta-qt5
 	url = git://github.com/meta-qt5/meta-qt5.git
 [submodule "meta-openembedded"]
 	path = meta-openembedded
 	url = git://git.openembedded.org/meta-openembedded
+	branch = fido
 [submodule "poky"]
 	path = poky
 	url = git://git.yoctoproject.org/poky
+	branch = fido
 [submodule "meta-fsl-arm-extra"]
 	path = meta-fsl-arm-extra
 	url = https://github.com/gmacario/meta-fsl-arm-extra.git
+	branch = fido-gm01
 [submodule "meta-fsl-arm"]
 	path = meta-fsl-arm
 	url = git://git.yoctoproject.org/meta-fsl-arm
+	branch = fido
 [submodule "meta-gmacario-udoo"]
 	path = meta-gmacario-udoo
 	url = https://github.com/gmacario/meta-gmacario-udoo.git
