@@ -1,6 +1,7 @@
 [submodule "meta-genivi-demo"]
 	path = meta-genivi-demo
 	url = http://git.projects.genivi.org/meta-genivi-demo.git
+	branch = master
 [submodule "meta-ivi"]
 	path = meta-ivi
 	url = http://git.yoctoproject.org/git/meta-ivi
@@ -8,6 +9,7 @@
 [submodule "meta-qt5"]
 	path = meta-qt5
 	url = git://github.com/meta-qt5/meta-qt5.git
+	branch = fido
 [submodule "meta-openembedded"]
 	path = meta-openembedded
 	url = git://git.openembedded.org/meta-openembedded
