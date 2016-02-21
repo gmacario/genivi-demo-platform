@@ -30,3 +30,7 @@
 	path = meta-gmacario-udoo
 	url = https://github.com/gmacario/meta-gmacario-udoo.git
 	branch = fido
+[submodule "meta-udoo"]
+	path = meta-udoo
+	url = https://github.com/graugans/meta-udoo
+	branch = jethro
