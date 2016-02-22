@@ -4,7 +4,7 @@
 	branch = jethro
 [submodule "meta-fsl-arm-extra"]
 	path = meta-fsl-arm-extra
-	url = https://github.com/Freescale/meta-fsl-arm-extra.git
+	url = https://github.com/graugans/meta-fsl-arm-extra.git
 	branch = jethro
 [submodule "meta-fsl-demos"]
 	path = meta-fsl-demos
