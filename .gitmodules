@@ -2,6 +2,10 @@
 	path = meta-fsl-arm
 	url = git://git.yoctoproject.org/meta-fsl-arm
 	branch = jethro
+[submodule "meta-fsl-arm-extra"]
+	path = meta-fsl-arm-extra
+	url = https://github.com/graugans/meta-fsl-arm-extra.git
+	branch = master-udooneo
 [submodule "meta-fsl-demos"]
 	path = meta-fsl-demos
 	url = https://github.com/Freescale/meta-fsl-demos.git
